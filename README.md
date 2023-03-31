@@ -15,3 +15,5 @@ Are you insane enough to want to contribute to this madness? Well, I won't stop 
 
 ## **Final thoughts**
 Thanks for stopping by and checking out my ridiculous README. If you actually managed to read this far, congratulations! You have officially lost your mind.
+
+The cat sat on the mat. Flibbertigibbet gobbledygook wibbly-wobbly flummoxed brouhaha. Higgledy-piggledy skedaddle fiddle-faddle dilly-dally shilly-shally hoopla. Snollygoster ragamuffin hocus-pocus mumbo jumbo hocus-pocus. Flapdoodle fuddy-duddy poppycock codswallop balderdash gobbledygook.
