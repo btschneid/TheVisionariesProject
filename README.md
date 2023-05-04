@@ -16,13 +16,13 @@ Even though the Gradient Boosting Regressor is the best model we found, there ar
 
 ## Getting Started
 
-# Prerequisites
+### Prerequisites
 * Python 3
 * Pandas
 * Scikit-learn
 * Seaborn
 
-# Installation
+### Installation
 1. Clone this repository
 2. Install the required Python packages: pip install pandas scikit-learn seaborn
 
